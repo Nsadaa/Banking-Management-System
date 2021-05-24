@@ -9,15 +9,15 @@
 ## About Programme
 
 
-- This is banking system programme with advanced functions developed in python
+- This is banking system programme with advanced functions developed in python using PyCharm IDLE
 
 - In here i this programme develop using pycharm IDLE. this not included GUI interface.
 
-- In this programme include advanced functions. instead of basic functions. send 		emailnotifications to the customer, auto generate random strong passwords, auto generated 	customer id numbers
+- In this programme include advanced functions. send email notifications to the customer, auto generate random strong passwords, auto generated customer id numbers.
 
 - we can store store in database and generate reports and it use to further data analysis.
 
-- whole programme can divide in to six major parts.
+- whole programme can divide in to seven major parts.
 
 ---
 
@@ -31,20 +31,20 @@ if select cutomer section it give ability to deposite money, withdrwals, check b
 #### 2.   Deposite Part
 - user will abale to Deposite their deposited cash
 
-#### 2.   Withdrawel Part
+#### 3.   Withdrawel Part
 - user will abale to withdraw their deposited cash
 
-#### 2.   Check Balance part
+#### 4.   Check Balance part
 - after programme detect movements in the surface it send email messeage
 			              - to the pre specified email address.
 
-#### 2.   Auto Gnerated Customer ID Part
+#### 5.   Auto Gnerated Customer ID Part
 - System will generate a new id for newly creating customers . so customer id is the primary key.
 
-#### 2.   Password Generator
+#### 6.   Password Generator
 - In this section it create a strong Random Password to the user accounts.
 
-#### 2.   Email Configeration Part
+#### 7.   Email Configeration Part
 - in this email configuration part it give ability to send emails about customer account transactions details.
 
 ---
