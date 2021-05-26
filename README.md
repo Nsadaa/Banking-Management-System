@@ -9,7 +9,7 @@
 ## About Programme
 
 
-- This is banking system programme with advanced functions developed in python using PyCharm IDLE
+- This is banking Management system programme with advanced functions developed in python using PyCharm IDLE
 
 - In here i this programme develop using pycharm IDLE. this not included GUI interface.
 
